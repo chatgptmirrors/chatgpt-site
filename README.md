@@ -18,13 +18,13 @@
 
 支持GPT4、4o以及o1、GPTs，、AI绘画等功能。
 
-#### ** 优缺点分析 **
+#### **优缺点分析**
 
 -  优点在于GPT4o和GPT o1模型可以无限制使用，不像官网一样，一周只能问50个问题，
 -  响应速度快，界面友好；
 -  缺点是首次加载时间比较长。
 
-### ** 2. 网站2：AI智慧岛 [https://chat.lify.vip/](https://chat.lify.vip/) **
+### **2. 网站2：AI智慧岛 [https://chat.lify.vip/](https://chat.lify.vip/)**
 
 #### **主要功能**
 
