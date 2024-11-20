@@ -12,9 +12,9 @@
 
 ## **主流ChatGPT中文版镜像网站列表**
 
-### ** 1. 网站1：一下AI [https://www.yixiaai.com/](https://www.yixiaai.com/) **
+### **1. 网站1：一下AI [https://www.yixiaai.com/](https://www.yixiaai.com/)**
 
-#### **主要功能 **
+#### **主要功能**
 
 支持GPT4、4o以及o1、GPTs，、AI绘画等功能。
 
