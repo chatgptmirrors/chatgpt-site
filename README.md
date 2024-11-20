@@ -12,13 +12,13 @@
 
 ## **主流ChatGPT中文版镜像网站列表**
 
-### **1. 网站1：一下AI [https://www.yixiaai.com/](https://www.yixiaai.com/) **
+### ** 1. 网站1：一下AI [https://www.yixiaai.com/](https://www.yixiaai.com/) **
 
-#### **主要功能**
+#### **主要功能 **
 
 支持GPT4、4o以及o1、GPTs，、AI绘画等功能。
 
-#### ** 优缺点分析**
+#### ** 优缺点分析 **
 
 -  优点在于GPT4o和GPT o1模型可以无限制使用，不像官网一样，一周只能问50个问题，
 -  响应速度快，界面友好；
