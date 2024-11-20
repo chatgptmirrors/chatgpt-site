@@ -35,7 +35,7 @@ AI智慧岛专注于教育和科研领域，是论文写作和科研人员的得
 
 优点是针对性强，尤其适合学生和科研人员使用；缺点是PC端使用非常友好，手机端不太适合。
 
-### ** 3. 网站3：问答绘画宝 [https://cgn.lify.vip/](https://cgn.lify.vip) **
+### **3. 网站3：问答绘画宝 [https://cgn.lify.vip/](https://cgn.lify.vip)**
 
 #### **主要功能**
 
@@ -45,7 +45,7 @@ AI智慧岛专注于教育和科研领域，是论文写作和科研人员的得
 
 优点是除了ChatGPT对话外还提供专业的Midjourney；缺点是功能单一。
 
-### **4. 网站4：讯问AI [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/) **
+### **4. 网站4：讯问AI [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/)**
 
 #### **主要功能**
 
