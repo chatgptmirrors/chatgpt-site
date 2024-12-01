@@ -24,6 +24,9 @@
 -  响应速度快，界面友好；
 -  缺点是首次加载时间比较长。
 
+  ![ChatGPT中文版-使用页面](https://github.com/user-attachments/assets/eb5a941e-0648-4c4c-ae63-9e5b1f8fbb79)
+
+
 ### **2. AI智慧岛 [https://chat.lify.vip/](https://chat.lify.vip/)**
 
 #### **主要功能**
@@ -35,6 +38,9 @@ AI智慧岛专注于教育和科研领域，是论文写作和科研人员的得
 
 优点是针对性强，尤其适合学生和科研人员使用；缺点是PC端使用非常友好，手机端不太适合。
 
+![ChatGPT中文版使用指南](https://github.com/user-attachments/assets/eb980479-0d9d-403b-8493-228841ca6ae5)
+
+
 ### **3. 问答绘画宝 [https://cgn.lify.vip/](https://cgn.lify.vip)**
 
 #### **主要功能**
@@ -44,6 +50,9 @@ AI智慧岛专注于教育和科研领域，是论文写作和科研人员的得
 #### **优缺点分析**
 
 优点是除了ChatGPT对话外还提供专业的Midjourney；缺点是功能单一。
+
+![ChatGPT中文版镜像-问答绘画宝](https://github.com/user-attachments/assets/23f09859-752f-464e-857f-6b8ac1d3ca3e)
+
 
 ### **4. 讯问AI [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/)**
 
